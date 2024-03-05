@@ -1,5 +1,11 @@
 Line 1
 
+<<<<<<< HEAD
 B's fav songs
 
 DEF
+=======
+A's Fav songs
+
+ABC
+>>>>>>> A
